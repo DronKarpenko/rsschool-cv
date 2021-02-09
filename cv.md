@@ -13,7 +13,7 @@ I try to use modern development methods, I strive to constantly learn new techno
 
 ## SKILLS
 
-**Programming languages and technologies:** HTML5, CSS3, JS
+**Programming languages and technologies:** HTML5, CSS3, JS, PHP
 
 **Frameworks and Libraries:** Sass, Bootstrap
 
